@@ -9,61 +9,7 @@
 </p>
 
 <p align="center">
-  🎮 Nơi vinh danh và chia sẻ những khoảnh khắc đỉnh cao trong thế giới game! 🚀
-</p>
 
----
-
-## 💻 Giới thiệu dự án
-
-HONOR X GAME là một nền tảng được tạo ra để tôn vinh những thành tựu của cộng đồng game thủ. Đây là nơi để bạn ghi lại và chia sẻ những khoảnh khắc đáng nhớ nhất của mình, từ những pha xử lý thần sầu cho đến những chiến thắng đầy cảm xúc.
-
-## ✨ Tính năng nổi bật
-
-* **Bộ sưu tập vinh danh**: Tạo và quản lý một trang cá nhân để trưng bày các thành tựu và kỷ niệm đáng nhớ.
-* **Trình xem video**: Tải lên và chia sẻ các đoạn clip highlights hoặc toàn bộ trận đấu của bạn.
-* **Hệ thống tìm kiếm**: Dễ dàng tìm kiếm các game thủ khác, các trận đấu nổi bật hoặc thông tin về các tựa game yêu thích.
-* **Hỗ trợ đa nền tảng**: Tối ưu hóa để hoạt động tốt trên cả máy tính và thiết bị di động.
-
-## ⚙️ Cài đặt và sử dụng
-
-Bạn cần có [Node.js](https://nodejs.org/en/) và [npm](https://www.npmjs.com/) đã được cài đặt trên máy.
-
-1.  Clone repository về máy:
-    ```sh
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-    cd your-repo
-    ```
-2.  Cài đặt các gói phụ thuộc:
-    ```sh
-    npm install
-    ```
-3.  Chạy ứng dụng:
-    ```sh
-    npm start
-    ```
-
-## 🤝 Đóng góp
-
-Sự đóng góp của bạn là vô cùng quý giá! Nếu bạn có ý tưởng để cải thiện dự án, đừng ngần ngại fork repository và tạo một pull request.
-
-1.  Fork dự án
-2.  Tạo một branch mới (`git checkout -b feature/AmazingFeature`)
-3.  Commit các thay đổi của bạn (`git commit -m 'Add some AmazingFeature'`)
-4.  Push lên branch (`git push origin feature/AmazingFeature`)
-5.  Mở một Pull Request
-
----
-
-## 📜 Giấy phép
-
-Dự án này được cấp phép theo giấy phép MIT. Xem file `LICENSE.md` để biết thêm chi tiết.
-
----
-
-<p align="center">
-  &copy; 2024 HONOR X GAME - Powered by GitHub 🚀
-</p>
 
 # <p align="center">HONOR X GAME</p>
 # Danh sách điện thoại HONOR
