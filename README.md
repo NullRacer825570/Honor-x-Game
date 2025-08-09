@@ -1,4 +1,9 @@
-...
+<div style="text-align: center; margin: 25px 0;">
+  <form action="https://github.com/NullRacer825570/Honor-x-Game/search" style="display: inline-block; font-family: Arial, sans-serif;">
+    <input type="text" name="q" placeholder="Tìm kiếm trong repository..." style="width: 300px; padding: 10px 15px; border: 1px solid #ccc; border-radius: 25px; font-size: 16px; outline: none;">
+    <button type="submit" style="padding: 10px 20px; border: none; border-radius: 25px; background-color: #007bff; color: #fff; cursor: pointer; font-size: 16px; margin-left: 10px; transition: background-color 0.3s ease;">Tìm</button>
+  </form>
+</div>...
 <table class="modern-table">
   <thead>
     <tr>
