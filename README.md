@@ -1,4 +1,97 @@
+<div align="center">
+  <img src="https://i.imgur.com/qU3aU1n.png" alt="HONOR X GAME Logo" width="250"/>
+  
+  # HONOR X GAME 🎮🚀
+</div>
 
+<p align="center">
+  Nền tảng dành cho cộng đồng game thủ yêu thích điện thoại HONOR. Khám phá các dòng điện thoại, game đề xuất và những mẹo chiến game đỉnh cao!
+</p>
+
+---
+
+## ✨ Tính năng nổi bật của dự án
+
+* **Danh mục điện thoại HONOR:** Tổng hợp và phân loại các dòng điện thoại HONOR theo mục đích sử dụng (chơi game, chụp ảnh, v.v.).
+* **Game đề xuất chi tiết:** Đưa ra danh sách các tựa game phù hợp với từng dòng điện thoại HONOR, kèm theo lời khuyên về cấu hình.
+* **Hệ thống Đăng ký & Đăng nhập linh hoạt:** Cho phép người dùng tạo tài khoản thủ công hoặc **đăng nhập nhanh chóng bằng tài khoản Google**.
+* **Thiết kế đáp ứng (Responsive):** Giao diện được tối ưu hóa để hoạt động mượt mà trên cả máy tính, máy tính bảng và điện thoại di động.
+
+---
+
+## 📱 Các dòng điện thoại HONOR & Game đề xuất
+
+HONOR nổi bật với danh mục đa dạng. Dưới đây là mô tả chi tiết về từng dòng, ưu điểm và các game đề xuất:
+
+### HONOR X Series — Giá hợp lý, trải nghiệm game ổn định
+* **Giới thiệu:** Dòng X tập trung vào giá trị — cấu hình đủ dùng, pin tốt và màn hình hợp lý. Thích hợp cho người dùng cần máy đa năng với chi phí thấp.
+* **Game đề xuất:** Liên Quân Mobile, Free Fire, PUBG Mobile (cấu hình trung bình).
+
+### HONOR Play Series — Tối ưu cho game thủ tầm trung
+* **Giới thiệu:** Tối ưu GPU/CPU, hệ thống tản nhiệt cải tiến, trải nghiệm chơi game ổn định trong thời gian dài.
+* **Game đề xuất:** PUBG Mobile (đồ họa cao), Call of Duty Mobile, Asphalt 9.
+
+### HONOR Magic Series — Flagship, chơi game đỉnh cao
+* **Giới thiệu:** Dòng Magic là flagship của HONOR với chip hàng đầu, màn hình OLED chất lượng, RAM lớn và tản nhiệt xịn — phù hợp cho game nặng.
+* **Game đề xuất:** Genshin Impact, Honkai: Star Rail, Call of Duty Mobile (cấu hình max).
+
+---
+
+## 🛠️ Cài đặt & Chạy dự án
+
+Để khởi chạy dự án trên máy cục bộ, bạn cần làm theo các bước sau:
+
+1.  **Clone repository về máy:**
+    ```sh
+    git clone [https://github.com/ten_nguoi_dung/ten_repository.git](https://github.com/ten_nguoi_dung/ten_repository.git)
+    cd ten_repository
+    ```
+
+2.  **Cài đặt các gói phụ thuộc:**
+    ```sh
+    # Ví dụ với Node.js:
+    npm install
+    ```
+
+3.  **Chạy ứng dụng:**
+    ```sh
+    npm start
+    ```
+
+---
+
+## 🔐 Đăng ký & Đăng nhập
+
+Bạn có thể dễ dàng trở thành một phần của cộng đồng **HONOR X GAME** bằng cách:
+
+* **Đăng ký tài khoản mới (thủ công):**
+    <a href="https://duong-dan-trang-web-cua-ban.com/register">
+      <img src="https://img.shields.io/badge/Đăng_ký-007bff?style=for-the-badge" alt="Đăng ký">
+    </a>
+
+* **Đăng nhập vào hệ thống (thủ công):**
+    <a href="https://duong-dan-trang-web-cua-ban.com/login">
+      <img src="https://img.shields.io/badge/Đăng_nhập-1a4a6e?style=for-the-badge" alt="Đăng nhập">
+    </a>
+
+* **Hoặc đăng nhập nhanh bằng Google:**
+    <a href="https://duong-dan-trang-web-cua-ban.com/auth/google">
+      <img src="https://img.shields.io/badge/Đăng_nhập_với_Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Đăng nhập với Google">
+    </a>
+
+**Lưu ý:** Vui lòng thay thế các đường dẫn ví dụ (`https://duong-dan-trang-web-cua-ban.com/...`) bằng đường dẫn thực tế của trang web bạn. Việc tích hợp đăng nhập bằng Google yêu cầu thiết lập thêm ở phía server.
+
+---
+
+## 🤝 Đóng góp
+
+Mọi sự đóng góp đều được hoan nghênh! Nếu bạn có ý tưởng cải tiến, vui lòng fork repository và tạo một **Pull Request**.
+
+---
+
+## 📜 Giấy phép
+
+Dự án này được cấp phép theo giấy phép MIT.
 
 # <div align="center">HONOR X GAME</div>
 
