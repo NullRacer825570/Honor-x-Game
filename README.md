@@ -62,37 +62,6 @@ HONOR nổi bật với danh mục đa dạng. Dưới đây là mô tả chi ti
 
 ## 🔐 Đăng ký & Đăng nhập
 
-Bạn có thể dễ dàng trở thành một phần của cộng đồng **HONOR X GAME** bằng cách:
-
-* **Đăng ký tài khoản mới (thủ công):**
-    <a href="https://duong-dan-trang-web-cua-ban.com/register">
-      <img src="https://img.shields.io/badge/Đăng_ký-007bff?style=for-the-badge" alt="Đăng ký">
-    </a>
-
-* **Đăng nhập vào hệ thống (thủ công):**
-    <a href="https://duong-dan-trang-web-cua-ban.com/login">
-      <img src="https://img.shields.io/badge/Đăng_nhập-1a4a6e?style=for-the-badge" alt="Đăng nhập">
-    </a>
-
-* **Hoặc đăng nhập nhanh bằng Google:**
-    <a href="https://duong-dan-trang-web-cua-ban.com/auth/google">
-      <img src="https://img.shields.io/badge/Đăng_nhập_với_Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Đăng nhập với Google">
-    </a>
-
-**Lưu ý:** Vui lòng thay thế các đường dẫn ví dụ (`https://duong-dan-trang-web-cua-ban.com/...`) bằng đường dẫn thực tế của trang web bạn. Việc tích hợp đăng nhập bằng Google yêu cầu thiết lập thêm ở phía server.
-
----
-
-## 🤝 Đóng góp
-
-Mọi sự đóng góp đều được hoan nghênh! Nếu bạn có ý tưởng cải tiến, vui lòng fork repository và tạo một **Pull Request**.
-
----
-
-## 📜 Giấy phép
-
-Dự án này được cấp phép theo giấy phép MIT.
-
 
 
 
@@ -198,5 +167,36 @@ Tablet (Pad): ưu tiên MOBA/RPG và game nhiều nội dung hiển thị.
 | ![HONOR X9a](https://fdn2.gsmarena.com/vv/pics/honor/honor-x9a-1.jpg) | **HONOR X9a** <br> Màn cong, pin tốt, hiệu năng tầm trung ổn định. <br> **Game đề xuất:** Call of Duty Mobile, Free Fire MAX, Asphalt 8 |
 | ![HONOR Magic Vs](https://fdn2.gsmarena.com/vv/pics/honor/honor-magic-vs-1.jpg) | **HONOR Magic Vs (gập)** <br> Điện thoại gập cao cấp, màn 120Hz kép, cấu hình flagship. <br> **Game đề xuất:** PUBG Mobile, Genshin Impact, Fortnite |
 
+
+Bạn có thể dễ dàng trở thành một phần của cộng đồng **HONOR X GAME** bằng cách:
+
+* **Đăng ký tài khoản mới (thủ công):**
+    <a href="https://duong-dan-trang-web-cua-ban.com/register">
+      <img src="https://img.shields.io/badge/Đăng_ký-007bff?style=for-the-badge" alt="Đăng ký">
+    </a>
+
+* **Đăng nhập vào hệ thống (thủ công):**
+    <a href="https://duong-dan-trang-web-cua-ban.com/login">
+      <img src="https://img.shields.io/badge/Đăng_nhập-1a4a6e?style=for-the-badge" alt="Đăng nhập">
+    </a>
+
+* **Hoặc đăng nhập nhanh bằng Google:**
+    <a href="https://duong-dan-trang-web-cua-ban.com/auth/google">
+      <img src="https://img.shields.io/badge/Đăng_nhập_với_Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Đăng nhập với Google">
+    </a>
+
+**Lưu ý:** Vui lòng thay thế các đường dẫn ví dụ (`https://duong-dan-trang-web-cua-ban.com/...`) bằng đường dẫn thực tế của trang web bạn. Việc tích hợp đăng nhập bằng Google yêu cầu thiết lập thêm ở phía server.
+
+---
+
+## 🤝 Đóng góp
+
+Mọi sự đóng góp đều được hoan nghênh! Nếu bạn có ý tưởng cải tiến, vui lòng fork repository và tạo một **Pull Request**.
+
+---
+
+## 📜 Giấy phép
+
+Dự án này được cấp phép theo giấy phép MIT.
 
 
