@@ -1,37 +1,4 @@
-<style>
-  .modern-table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 0;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    margin: 20px 0;
-  }
-  .modern-table th, .modern-table td {
-    padding: 15px;
-    text-align: center;
-    border: none;
-    background-color: #f8f9fa;
-  }
-  .modern-table td a {
-    text-decoration: none;
-    color: #007bff;
-    font-weight: bold;
-    transition: color 0.3s ease;
-  }
-  .modern-table td a:hover {
-    color: #0056b3;
-  }
-  .modern-table tr:hover td {
-    background-color: #e9ecef;
-  }
-  .modern-table th {
-    background-color: #343a40;
-    color: #fff;
-    font-size: 1.1em;
-    padding: 15px;
-  }
+
 </style>
 
 <table class="modern-table">
