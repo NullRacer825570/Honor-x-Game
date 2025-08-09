@@ -1,0 +1,40 @@
+.news-ticker {
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.news-menu {
+  display: flex;
+  white-space: nowrap;
+  padding: 10px 15px;
+  list-style: none;
+  margin: 0;
+}
+
+.news-menu-item {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 8px 15px;
+  transition: color 0.3s ease;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.news-menu-item:hover,
+.news-menu-item.active {
+  color: #007bff;
+}
+
+/* Hide scrollbar on different browsers */
+.news-ticker::-webkit-scrollbar {
+  display: none;
+}
+.news-ticker {
+  -ms-overflow-style: none; /* For IE and Edge */
+  scrollbar-width: none; /* For Firefox */
+  }
