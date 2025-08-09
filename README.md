@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/qU3aU1n.png" alt="HONOR X GAME Logo" width="250"/>
-  
+<
   # HONOR X GAME 🎮🚀
 </div>
 
