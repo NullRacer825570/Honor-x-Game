@@ -11,9 +11,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="link_gia_cac_dong">Honor giá các dòng</a></td>
-      <td><a href="link_may_dinh_nhat">Máy đỉnh nhất</a></td>
-      <td><a href="link_cuc_sac">Honor cục sạc ngon</a></td>
+      <td><a | [Honor giá các dòng](docs/honor-gia-cac-dong.md) | [Máy đỉnh nhất](docs/may-dinh-nhat.md) | ... |
+|---|---|---|href="link_cuc_sac">Honor cục sạc ngon</a></td>
     </tr>
     <tr>
       <td><a href="link_review_game">Review game</a></td>
