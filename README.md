@@ -1,7 +1,8 @@
-<!-- README.md: logo nhỏ, nổi bên phải -->
-<img src="images/honor-x-game.png" alt="HONOR X Game" style="float:right; width:80px; margin:6px 0 10px 10px; opacity:0.95;" />
+<p align="center">
+  <img src="đường_dẫn_đến_logo_của_bạn" alt="HONOR X GAME Logo">
+</p>
 
-<!-- Phần nội dung README tiếp theo -->
+# <p align="center">HONOR X GAME</p>
 # Danh sách điện thoại HONOR
 Nội dung giới thiệu, bảng, v.v...
 Tổng quan
