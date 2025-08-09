@@ -1,4 +1,9 @@
-/>Honor X Game**
+<!-- README.md: logo nhỏ, nổi bên phải -->
+<img src="images/honor-x-game.png" alt="HONOR X Game" style="float:right; width:80px; margin:6px 0 10px 10px; opacity:0.95;" />
+
+<!-- Phần nội dung README tiếp theo -->
+# Danh sách điện thoại HONOR
+Nội dung giới thiệu, bảng, v.v...
 Tổng quan
 
 HONOR nổi bật với danh mục đa dạng: từ dòng X giá phải chăng, Play dành cho game thủ, đến Magic (flagship) và Pad cho trải nghiệm màn hình lớn. Dưới đây là mô tả từng dòng, ưu điểm và các game đề xuất.
