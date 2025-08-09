@@ -1,5 +1,60 @@
-| [Honor giá các dòng](link_den_trang_1) | [Máy đỉnh nhất](link_den_trang_2) | [Honor cục sạc ngon](link_den_trang_3) | [Review game](link_den_trang_4) | [Tin tức](link_den_trang_5) | [Khác](link_den_trang_6) |
-|---|---|---|---|---|---|
+<style>
+  .modern-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin: 20px 0;
+  }
+  .modern-table th, .modern-table td {
+    padding: 15px;
+    text-align: center;
+    border: none;
+    background-color: #f8f9fa;
+  }
+  .modern-table td a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  .modern-table td a:hover {
+    color: #0056b3;
+  }
+  .modern-table tr:hover td {
+    background-color: #e9ecef;
+  }
+  .modern-table th {
+    background-color: #343a40;
+    color: #fff;
+    font-size: 1.1em;
+    padding: 15px;
+  }
+</style>
+
+<table class="modern-table">
+  <thead>
+    <tr>
+      <th>Danh mục</th>
+      <th>Thông tin</th>
+      <th>Đánh giá</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="link_gia_cac_dong">Honor giá các dòng</a></td>
+      <td><a href="link_may_dinh_nhat">Máy đỉnh nhất</a></td>
+      <td><a href="link_cuc_sac">Honor cục sạc ngon</a></td>
+    </tr>
+    <tr>
+      <td><a href="link_review_game">Review game</a></td>
+      <td><a href="link_tin_tuc">Tin tức</a></td>
+      <td><a href="link_khac">Khác</a></td>
+    </tr>
+  </tbody>
+</table>
   # HONOR X GAME 🎮🚀
 </div>
 
