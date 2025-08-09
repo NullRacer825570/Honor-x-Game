@@ -37,33 +37,6 @@ HONOR nổi bật với danh mục đa dạng. Dưới đây là mô tả chi ti
 
 ---
 
-## 🛠️ Cài đặt & Chạy dự án
-
-Để khởi chạy dự án trên máy cục bộ, bạn cần làm theo các bước sau:
-
-1.  **Clone repository về máy:**
-    ```sh
-    git clone [https://github.com/ten_nguoi_dung/ten_repository.git](https://github.com/ten_nguoi_dung/ten_repository.git)
-    cd ten_repository
-    ```
-
-2.  **Cài đặt các gói phụ thuộc:**
-    ```sh
-    # Ví dụ với Node.js:
-    npm install
-    ```
-
-3.  **Chạy ứng dụng:**
-    ```sh
-    npm start
-    ```
-
----
-
-## 🔐 Đăng ký & Đăng nhập
-
-
-
 
 # <p align="center">HONOR X GAME</p>
 # Danh sách điện thoại HONOR
