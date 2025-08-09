@@ -1,6 +1,4 @@
-
-</style>
-
+...
 <table class="modern-table">
   <thead>
     <tr>
@@ -11,8 +9,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a | [Honor giá các dòng](docs/honor-gia-cac-dong.md) | [Máy đỉnh nhất](docs/may-dinh-nhat.md) | ... |
-|---|---|---|href="link_cuc_sac">Honor cục sạc ngon</a></td>
+      <td><a href="https://nullracer825570.github.io/Honorxgame-giahoply/">Honor giá các dòng</a></td>
+      <td><a href="https://github.com/NullRacer825570/Honor-x-Game/docs/may-dinh-nhat.md">Máy đỉnh nhất</a></td>
+      <td><a href="https://github.com/NullRacer825570/Honor-x-Game/docs/honor-cuc-sac-ngon.md">Honor cục sạc ngon</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NullRacer825570/Honor-x-Game/docs/review-game.md">Review game</a></td>
+      <td><a href="https://github.com/NullRacer825570/Honor-x-Game/docs/tin-tuc.md">Tin tức</a></td>
+      <td><a href="https://github.com/NullRacer825570/Honor-x-Game/docs/khac.md">Khác</a></td>
+    </tr>
+  </tbody>
+</table>
+...
+|href="link_cuc_sac">Honor cục sạc ngon</a></td>
     </tr>
     <tr>
       <td><a href="link_review_game">Review game</a></td>
