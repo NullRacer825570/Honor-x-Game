@@ -93,15 +93,7 @@ Mọi sự đóng góp đều được hoan nghênh! Nếu bạn có ý tưởng
 
 Dự án này được cấp phép theo giấy phép MIT.
 
-# <div align="center">HONOR X GAME</div>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
-  <a href="https://github.com/your-username/your-repo/stargazers"><img src="https://img.shields.io/github/stars/your-username/your-repo?style=social"></a>
-</p>
-
-<p align="center">
 
 
 # <p align="center">HONOR X GAME</p>
